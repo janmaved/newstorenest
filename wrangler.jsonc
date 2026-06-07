@@ -4,10 +4,10 @@
   "compatibility_flags": ["nodejs_compat"],
   "pages_build_output_dir": "./dist",
   "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "storekaro-production",
-      "database_id": "placeholder-id"
-    }
-  ]
+  {
+    "binding": "DB",
+    "database_name": "dbs",
+    "database_id": "284a2c31-f4c7-453f-aa75-67e95051f5b1"
+  }
+]
 }
